@@ -138,5 +138,5 @@
 	<classpathentry kind="lib" path="src/plugins/userImportExport/lib/msv.jar"/>
 	<classpathentry kind="lib" path="src/plugins/userImportExport/lib/relaxngDatatype.jar"/>
 	<classpathentry kind="lib" path="src/plugins/userImportExport/lib/xsdlib.jar"/>
-	<classpathentry kind="output" path="target"/>
+	<classpathentry kind="output" path="work/classes"/>
 </classpath>
